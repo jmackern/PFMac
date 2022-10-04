@@ -2,14 +2,27 @@
     padding: 20px;
 }
 div{
+    font-size: xx-large;
     background-color:rgb(24, 93, 173);
     text-align: center;
+    color:antiquewhite;
+    font-family:serif;
+    font-style: italic ;
+    font-weight:normal  ; 
+    
 }
 #nombre{
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+    font-size: xx-large;
+    font-family: serif ;
+    font-style: italic;
    font-weight: bold;
+   color: antiquewhite;
     margin-top: 40%;
     margin-left: 10px;
 }
+
+
 @media (min-width: 576px){
     #fotodeperfil {
         position: absolute;
@@ -27,6 +40,17 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 530px;
+    }
+}
+@media (min-width: 1110px){
+    #fotodeperfil {
+        position: absolute;
+        width: 10%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 600px;
+        
     }
 }

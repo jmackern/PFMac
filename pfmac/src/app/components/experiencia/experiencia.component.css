@@ -1,5 +1,9 @@
 .row{
     padding: 20px;
+    color:antiquewhite;
+    font-family:serif;
+    font-style: italic ;
+    font-weight:normal  ;
 }
 div{
     background-color:rgb(24, 93, 173);
