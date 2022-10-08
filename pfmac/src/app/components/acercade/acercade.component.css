@@ -6,7 +6,7 @@ div{
     background-color:rgb(24, 93, 173);
     text-align: center;
     color:antiquewhite;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Finlandica', sans-serif;
     font-style: normal ;
    
 }
@@ -14,13 +14,12 @@ div{
   border-radius: 21px;
   background-color: #4FC3F7;
   font-family: 'Finlandica', sans-serif;
-  font-family: 'Noto Sans', sans-serif;
   text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
   }
 #nombre{
     text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
     font-size: xx-large;
-    font-family: verdana ;
+    font-family: 'Finlandica', sans-serif;
     font-style: italic;
    font-weight: bold;
    color: antiquewhite;
