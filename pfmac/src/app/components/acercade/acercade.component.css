@@ -3,26 +3,28 @@
 }
 div{
     font-size: xx-large;
-    background-color:rgb(24, 93, 173);
+    background-color:rgb(58, 63, 69);
     text-align: center;
-    color:antiquewhite;
-    font-family: 'Finlandica', sans-serif;
+    color:rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
     font-style: normal ;
    
 }
 #acerca{
   border-radius: 21px;
-  background-color: #4FC3F7;
-  font-family: 'Finlandica', sans-serif;
+  background-color: #66a7c5;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
   text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  font-weight: lighter;
   }
 #nombre{
     text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
     font-size: xx-large;
     font-family: 'Finlandica', sans-serif;
     font-style: italic;
-   font-weight: bold;
-   color: antiquewhite;
+   font-weight: lighter;
+   color: rgb(255, 255, 255);
     margin-top: 40%;
     margin-left: 10px;
 }
