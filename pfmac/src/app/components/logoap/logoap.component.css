@@ -1,3 +1,30 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 #logoap{
     width: 150px;
+}
+img{
+    width: 50px;
+}
+button {
+    font-weight: bolder;
+    color: white;
+    border-color: white;
+    border-width: 3px;
+}
+@media (max-width: 575px){
+    .container{
+        flex-direction: column;
+    }
+    .redes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .redes img{
+        margin: 0.2em;
+    }
 }

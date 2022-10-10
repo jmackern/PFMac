@@ -1,10 +1,11 @@
 .row{
     padding: 20px;
-    color:antiquewhite;
+    color:white;
     font-family: 'Montserrat', sans-serif;
     font-style: Italic;
     font-weight: lighter ;
-    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);  
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+    box-shadow: 2px -2px 5px rgb(120, 118, 116);  
 }
 div{
     background-color:rgb(38, 47, 60);
